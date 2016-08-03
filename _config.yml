@@ -1,0 +1,14 @@
+layout_spectrum: 0.9935688285622746
+typography_spectrum: 0.15952308964915574
+color:
+  brandStrength: 0.33566522179171443
+  lightness: 0.044930075062438846
+  saturation: 0.03375552990473807
+  rhythmicContrast: 0.5688799815252423
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+name: blacktable
